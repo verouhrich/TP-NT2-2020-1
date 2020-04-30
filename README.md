@@ -1,5 +1,5 @@
 # TP-NT2-2020-1 - Cronometro Pomodoro
-Trabajo Practico 2 para Nuevas Tecnologias 2 | React Native
+Trabajo Practico para Nuevas Tecnologias 2 | React Native
 
 Para este trabajo práctico, se pide a los alumnos implementar un Cronometro Pomodoro en una apliación mobile utilizando el framework React Native. El fin de este cronómetro es ayudar a las personas a utilizar la  [Técnica Pomodoro](https://es.wikipedia.org/wiki/T%C3%A9cnica_Pomodoro).
 
